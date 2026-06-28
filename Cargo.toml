@@ -1,0 +1,10 @@
+[package]
+name = "wp-components-rs"
+version = "0.1.1"
+edition = "2024"
+description = "Rust port of WordPress/Elementor package wp-components-rs"
+license = "GPL-2.0"
+
+[dependencies]
+colored = "3.1.1"
+indicatif = "0.18.4"
